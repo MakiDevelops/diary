@@ -1,3 +1,2 @@
 # Diary
-
-program manager for my projects, currently in development
+simple python command line / terminal
